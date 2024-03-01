@@ -18,6 +18,7 @@
 ## Books
 ### Historical
 - UNIX: A History and a Memoir, by Brian Kernighan
+- 
 ### Linux
 - Understanding the Linux Kernel, by Danier Bovet
 ### C++
@@ -31,6 +32,9 @@
 - Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 ### Database Design
 - Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design, by Michael Hernandez
+### System Design
+- Distributed Systems, by Maarten van Steen,  Andrew Tenenbaum
+
 ---
 ## Software related podcasts:
 - The Stack Overflow Podcast: https://stackoverflow.blog/podcast
@@ -60,3 +64,4 @@
 
 ### Universities
 - CS50 Harvard University's introduction to Computer Science: https://www.youtube.com/@cs50
+
