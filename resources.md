@@ -29,6 +29,8 @@
 - The C Programming Language, by Brian Kernighan & Dennis Ritchie
 ### Design Patterns
 - Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
+### Database Design
+- Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design, by Michael Hernandez
 ---
 ## Software related podcasts:
 - The Stack Overflow Podcast: https://stackoverflow.blog/podcast
@@ -58,4 +60,3 @@
 
 ### Universities
 - CS50 Harvard University's introduction to Computer Science: https://www.youtube.com/@cs50
-
